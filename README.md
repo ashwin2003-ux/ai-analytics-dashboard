@@ -1,3 +1,28 @@
+📊 AI Analytics Dashboard
+An interactive and responsive AI-powered analytics dashboard built with React and Tailwind CSS. This project visualizes user data through beautiful charts using Recharts, providing a seamless and modern user experience.
+
+🚀 Features
+📈 Interactive charts (Pie, Line, Bar)
+
+🎨 Clean UI with Tailwind CSS
+
+📊 Recharts integration for smooth data visualization
+
+🔁 Reusable and modular components
+
+⚙️ Easy to customize and expand
+
+🛠 Tech Stack
+Frontend: React.js
+
+Styling: Tailwind CSS
+
+Charts: Recharts
+
+Version Control: Git + GitHub
+
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
